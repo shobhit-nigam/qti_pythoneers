@@ -1,0 +1,3 @@
+import colour
+
+help(colour)
